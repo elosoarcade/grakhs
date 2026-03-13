@@ -7,4 +7,3 @@ Grakhs are monsters similar to piglins that spawn in all biomes during the day i
 
 This addon is optimized to run effectively on Realms and dedicated servers with minimal hardware resource consumption.
 
-![32597 (1)](https://github.com/user-attachments/assets/13cc036b-ac27-4702-8156-d720d010d6ac)
