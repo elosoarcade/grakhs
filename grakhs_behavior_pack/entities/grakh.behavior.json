@@ -25,7 +25,8 @@
 
       "grakh_variant_0": { "minecraft:variant": { "value": 0 } },
       "grakh_variant_1": { "minecraft:variant": { "value": 1 } },
-      "grakh_variant_2": { "minecraft:variant": { "value": 2 } }
+      "grakh_variant_2": { "minecraft:variant": { "value": 2 } },
+      "grakh_variant_2": { "minecraft:variant": { "value": 3 } }      
     },
     "components": {
       "minecraft:experience_reward": {

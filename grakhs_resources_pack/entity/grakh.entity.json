@@ -10,7 +10,8 @@
             "textures": {
                 "grakh_1": "textures/entity/grakh_1",
                 "grakh_2": "textures/entity/grakh_2",
-                "grakh_3": "textures/entity/grakh_3"
+                "grakh_3": "textures/entity/grakh_3",
+                "grakh_4": "textures/entity/grakh_4"                
             },
             "geometry": {
                 "default": "geometry.humanoid.custom"
