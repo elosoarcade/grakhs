@@ -5,6 +5,10 @@ Grakhs are monsters similar to piglins that spawn in all biomes during the day i
 
 ❤️ Health: 30 | ⚔️ Attack: 3 | ✨ EXP: 20
 
+Since version 2.5.0, the Grakh Alpha miniboss has been added. It is larger than a normal Grakh, spawns much less frequently, is a formidable combat opponent, and has better loot.
+
+❤️ Health: 100 | ⚔️ Attack: 9 | ✨ EXP: 60
+
 This addon is optimized to run effectively on Realms and dedicated servers with minimal hardware resource consumption and its available in english and español.  🇬🇧 🇲🇽
 
 ![Grakhs Minecraft Bedrock Addon](https://media.forgecdn.net/attachments/1579/699/32797-png.png)
