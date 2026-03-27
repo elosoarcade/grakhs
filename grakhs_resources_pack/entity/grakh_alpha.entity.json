@@ -2,23 +2,21 @@
     "format_version": "1.8.0",
     "minecraft:client_entity": {
         "description": {
-            "identifier": "eoa:grakh",
+            "identifier": "eoa:grakh_alpha",
             "min_engine_version": "1.8.0",
             "materials": {
                 "default": "entity_alphatest"
             },
             "textures": {
-                "grakh_1": "textures/entity/grakh_1",
-                "grakh_2": "textures/entity/grakh_2",
-                "grakh_3": "textures/entity/grakh_3",
-                "grakh_4": "textures/entity/grakh_4"                
+                "grakh_alpha_1": "textures/entity/grakh_alpha_1",
+                "grakh_alpha_2": "textures/entity/grakh_alpha_2"           
             },
             "geometry": {
                 "default": "geometry.humanoid.custom"
             },
             "spawn_egg": {
                 "base_color": "#75645c",
-                "overlay_color": "#2b2b2b"
+                "overlay_color": "#cbc6a5"
             },
             "scripts": {
                 "pre_animation": [
@@ -49,7 +47,7 @@
                 { "bob": "controller.animation.humanoid.bob" }
             ],
             "render_controllers": [
-                "controller.render.grakh"
+                "controller.render.grakh_alpha"
             ],
             "enable_attachables": true
         }

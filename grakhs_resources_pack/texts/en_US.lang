@@ -1,3 +1,5 @@
-entity.eoa:ogre.name=Grakh
-item.spawn_egg.entity.eoa:ogre.name=Spawn Grakh
+entity.eoa:grakh.name=Grakh
+item.spawn_egg.entity.eoa:grakh.name=Spawn Grakh
+entity.eoa:grakh_alpha.name=Grakh Alpha
+item.spawn_egg.entity.eoa:grakh_alpha.name=Spawn Grakh Alpha
 item.eoa:dungeon_axe=Dungeon Axe

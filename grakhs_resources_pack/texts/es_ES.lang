@@ -1,3 +1,5 @@
-entity.eoa:grakh.name=grakh
+entity.eoa:grakh.name=Grakh
 item.spawn_egg.entity.eoa:grakh.name=Huevo generador de grakh
+entity.eoa:grakh_alpha.name=Grakh alpha
+item.spawn_egg.entity.eoa:grakh_alpha.name=Huevo generador de grakh alpha
 item.eoa:dungeon_axe=Hacha de mazmorra

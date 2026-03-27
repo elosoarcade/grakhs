@@ -2,7 +2,7 @@
   "format_version": "1.21.0",
   "minecraft:entity": {
     "description": {
-      "identifier": "eoa:grakh",
+      "identifier": "eoa:grakh_alpha",
       "spawn_category": "creature",
       "is_spawnable": true,
       "is_summonable": true
@@ -24,21 +24,24 @@
       },
 
       "grakh_variant_0": { "minecraft:variant": { "value": 0 } },
-      "grakh_variant_1": { "minecraft:variant": { "value": 1 } },
-      "grakh_variant_2": { "minecraft:variant": { "value": 2 } },
-      "grakh_variant_3": { "minecraft:variant": { "value": 3 } }      
+      "grakh_variant_1": { "minecraft:variant": { "value": 1 } }
     },
     "components": {
       "minecraft:experience_reward": {
-        "on_death": "query.last_hit_by_player ? 20 : 0"
+        "on_death": "query.last_hit_by_player ? 60 : 0"
         },     
+			"minecraft:boss": {
+				"should_darken_sky": false,
+				"hud_range": 64,
+				"name":"Grakh Alpha"
+			},        
       "minecraft:is_hidden_when_invisible": {},
       "minecraft:nameable": {},
       "minecraft:type_family": {
         "family": [ "grakh", "mob" ]
       },
       "minecraft:scale": {
-        "value": 1.2
+        "value": 1.4
       },
       "minecraft:equip_item": {
         "excluded_items": [
@@ -63,8 +66,8 @@
       "minecraft:jump.static": {},
       "minecraft:can_climb": {},
       "minecraft:health": {
-        "value": 30,
-        "max": 30
+        "value": 100,
+        "max": 100
       },
       "minecraft:hurt_on_condition": {
         "damage_conditions": [
@@ -85,10 +88,10 @@
         "suffocate_time": 0
       },
       "minecraft:attack": {
-        "damage": 3
+        "damage": 9
       },
       "minecraft:loot": {
-        "table": "loot_tables/entities/grakh.json"
+        "table": "loot_tables/entities/grakh_alpha.json"
       },
       "minecraft:despawn": {
         "despawn_from_distance": {}
@@ -140,17 +143,13 @@
                 { "test": "is_family", "subject": "other", "value": "human" }               
               ]
             },
-            "max_dist": 35
+            "max_dist": 36
           }
         ]
       },
       "minecraft:physics": {},
-      "minecraft:pushable": {
-        "is_pushable": true,
-        "is_pushable_by_piston": true
-      },
       "minecraft:movement": {
-        "value": 0.35
+        "value": 0.30
       },
       "minecraft:conditional_bandwidth_optimization": {}
     },
@@ -166,15 +165,7 @@
               {
                 "weight": 100,
                 "add": { "component_groups": [ "grakh_variant_1" ] }
-              },
-              {
-                "weight": 100,
-                "add": { "component_groups": [ "grakh_variant_2" ] }
-              },
-              {
-                "weight": 100,
-                "add": { "component_groups": [ "grakh_variant_3" ] }
-              }              
+              }
             ]
           },
           {
