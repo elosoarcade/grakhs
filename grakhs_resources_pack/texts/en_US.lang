@@ -2,4 +2,7 @@ entity.eoa:grakh.name=Grakh
 item.spawn_egg.entity.eoa:grakh.name=Spawn Grakh
 entity.eoa:grakh_alpha.name=Grakh Alpha
 item.spawn_egg.entity.eoa:grakh_alpha.name=Spawn Grakh Alpha
+entity.eoa:grakh_omega.name=Grakh Omega
+item.spawn_egg.entity.eoa:grakh_omega.name=Spawn Grakh Omega
 item.eoa:dungeon_axe=Dungeon Axe
+item.eoa:sharpened_femur=Sharpened Femur

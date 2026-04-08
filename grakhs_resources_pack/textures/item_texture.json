@@ -2,6 +2,9 @@
 	"texture_data": {
 		"dungeon_axe": {
 			"textures": "textures/items/dungeon_axe.png"
-		}
+		},
+		"sharpened_femur": {
+			"textures": "textures/items/sharpened_femur.png"
+		}		
 	}
 }

@@ -9,7 +9,7 @@
             },
             "textures": {
                 "grakh_alpha_1": "textures/entity/grakh_alpha_1",
-                "grakh_alpha_2": "textures/entity/grakh_alpha_2"           
+                "grakh_alpha_2": "textures/entity/grakh_alpha_1"           
             },
             "geometry": {
                 "default": "geometry.humanoid.custom"
