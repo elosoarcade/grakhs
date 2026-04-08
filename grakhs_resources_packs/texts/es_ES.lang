@@ -1,0 +1,8 @@
+entity.eoa:grakh.name=Grakh
+item.spawn_egg.entity.eoa:grakh.name=Huevo generador de grakh
+entity.eoa:grakh_alpha.name=Grakh alpha
+item.spawn_egg.entity.eoa:grakh_alpha.name=Huevo generador de grakh alpha
+entity.eoa:grakh_omega.name=Grakh omega
+item.spawn_egg.entity.eoa:grakh_omega.name=Huevo generador de grakh omega
+item.eoa:dungeon_axe=Hacha de mazmorra
+item.eoa:sharpened_femur=Fémur afilado

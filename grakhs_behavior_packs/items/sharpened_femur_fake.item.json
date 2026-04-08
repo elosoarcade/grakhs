@@ -1,0 +1,21 @@
+{
+	"format_version": "1.20.50",
+	"minecraft:item": {
+		"description": {
+			"identifier": "eoa:sharpened_femur_fake",
+			"menu_category": {
+				"category": "equipment",
+				"group": "itemGroup.name.sword"
+			}
+		},
+		"components": {
+			"minecraft:max_stack_size": 1,
+			"minecraft:icon": {
+				"texture": "sharpened_femur"
+			},
+			"minecraft:damage": 0,
+			"minecraft:can_destroy_in_creative": false,
+			"minecraft:hand_equipped": true
+		}
+	}
+}
