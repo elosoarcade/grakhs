@@ -7,7 +7,7 @@ Grakhs are monsters similar to piglins that spawn in all biomes during the day i
 
 Since version 2.5.0, the Grakh Alpha miniboss has been added. It is larger than a normal Grakh, spawns much less frequently, is a formidable combat opponent, and has better loot.
 
-❤️ Health: 100 | ⚔️ Attack: 9 | ✨ EXP: 60
+❤️ Health: 250 | ⚔️ Attack: 9 | ✨ EXP: 60
 
 Since version 3.0.0, the Grakh Omega boss has been added. It is the largest and most powerful of all Grakhs. This boss fights with its own weapon, the Sharpened Femur, and can unleash a sonic boom that pierces through walls, preventing players from hiding behind blocks. Additionally, if a player blocks its attack with a shield, Grakh Omega will roar and deal damage in retaliation.
 
@@ -15,4 +15,4 @@ Since version 3.0.0, the Grakh Omega boss has been added. It is the largest and 
 
 This addon is optimized to run effectively on Realms and dedicated servers with minimal hardware resource consumption and its available in english and español.  🇬🇧 🇲🇽
 
-![Grakhs Minecraft Bedrock Addon](https://media.forgecdn.net/attachments/1579/699/32797-png.png)
+![Grakhs Minecraft Bedrock Addon](https://media.forgecdn.net/attachments/1630/694/136336-png.png)
