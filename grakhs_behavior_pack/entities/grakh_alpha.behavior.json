@@ -66,8 +66,8 @@
       "minecraft:jump.static": {},
       "minecraft:can_climb": {},
       "minecraft:health": {
-        "value": 100,
-        "max": 100
+        "value": 250,
+        "max": 250
       },
       "minecraft:hurt_on_condition": {
         "damage_conditions": [
@@ -93,9 +93,12 @@
       "minecraft:loot": {
         "table": "loot_tables/entities/grakh_alpha.json"
       },
-      "minecraft:despawn": {
-        "despawn_from_distance": {}
-      },
+"minecraft:despawn": {
+    "despawn_from_distance": {
+        "min_distance": 128,
+        "max_distance": 192
+    }
+},
       "minecraft:behavior.equip_item": {
         "priority": 3
       },

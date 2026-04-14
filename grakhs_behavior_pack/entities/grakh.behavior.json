@@ -90,9 +90,12 @@
       "minecraft:loot": {
         "table": "loot_tables/entities/grakh.json"
       },
-      "minecraft:despawn": {
-        "despawn_from_distance": {}
-      },
+"minecraft:despawn": {
+    "despawn_from_distance": {
+        "min_distance": 128,
+        "max_distance": 192
+    }
+},
       "minecraft:behavior.equip_item": {
         "priority": 3
       },
