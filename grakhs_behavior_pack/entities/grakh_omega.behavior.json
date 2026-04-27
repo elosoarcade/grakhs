@@ -119,8 +119,8 @@
       "minecraft:scale": {
         "value": 1.6
       },
-      "minecraft:knockback": {
-        "value": 0
+      "minecraft:knockback_resistance": {
+        "value": 1.0
       },
       "minecraft:equip_item": {
         "excluded_items": [
@@ -226,6 +226,18 @@
         ]
       },
       "minecraft:physics": {},
+      "minecraft:buoyant": {
+        "base_buoyancy": 1.0,
+        "apply_gravity": false,
+        "can_auto_step_from_liquid": true,
+        "movement_type": "bobbing",
+        "liquid_blocks": [
+          "minecraft:water",
+          "minecraft:flowing_water",
+          "minecraft:lava",
+          "minecraft:flowing_lava"
+        ]
+      },      
       "minecraft:movement": {
         "value": 0.30
       },

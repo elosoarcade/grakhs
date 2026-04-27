@@ -4,7 +4,7 @@
 		"name": "Grakhs (B)",
 		"description": "Add Grakhs to Bedrock by El Oso Arcade",
 		"uuid": "013517ec-ab73-0abb-6628-b7a9e3712d9f",
-		"version": [3, 1, 0],
+		"version": [3, 1, 1],
 		"min_engine_version": [1, 16, 0]
 	},
 	"metadata": {
@@ -16,7 +16,7 @@
 	"modules": [
 		{
 			"description": "Behavior",
-			"version": [3, 1, 0],
+			"version": [3, 1, 1],
 			"uuid": "1440637b-f07c-aab7-0d55-2538ed6e7dfb",
 			"type": "data"
 		}
@@ -24,7 +24,7 @@
 	"dependencies": [
 		{
 			"uuid": "235c140a-50a3-78d1-5e1d-5025b53cfb85",
-			"version": [3, 1, 0]
+			"version": [3, 1, 1]
 		}
 	]
 }
