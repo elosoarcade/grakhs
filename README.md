@@ -15,4 +15,4 @@ Since version 3.0.0, the Grakh Omega boss has been added. It is the largest and 
 
 This addon is optimized to run effectively on Realms and dedicated servers with minimal hardware resource consumption and its available in english and español.  🇬🇧 🇲🇽
 
-![Grakhs Minecraft Bedrock Addon](https://media.forgecdn.net/attachments/1630/694/136336-png.png)
+<img width="1200" height="675" alt="grakhs-cover_20260427_171825_0000" src="https://github.com/user-attachments/assets/e935da94-09e8-4b4f-9624-c297df8b62b2" />
